@@ -58,6 +58,3 @@ def solution():
 if __name__ == "__main__":
     answer = solution()
     print(f"The solution is: {answer}")
-
-        
-        
